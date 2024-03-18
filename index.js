@@ -73,5 +73,3 @@ function createCard(title, imageUrl) {
  // for (let animal of animalsToAdopt) { 
  //     createCard(animal.name, animal.picture);
  // }
-
- 
