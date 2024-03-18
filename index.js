@@ -60,7 +60,6 @@ function createCard(title, imageUrl) {
   cardButton.classList.add("card-button");
   cardButton.innerText = "Adopt Now"
   cardBody.appendChild(cardButton);
-
 }
 
 /* Step 4: Create a for loop, for each element of the array, 
